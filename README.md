@@ -19,7 +19,8 @@ Eat apples to grow longer and score as many points as possible! 🚀
    ```bash
    python snake.py
 2. Control the snake with the arrow keys : 
-    ⬆ Up
+
+⬆ Up
 
 ⬇ Down
 
